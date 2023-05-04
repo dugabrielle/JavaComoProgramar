@@ -22,6 +22,6 @@ public class ProdutoInteiro {
 
         result = x * y * z;
 
-        System.out.printf("%s%d", "Valor: ", result);
+        System.out.printf("%s%d", "Valor:\n", result);
     }
 }
