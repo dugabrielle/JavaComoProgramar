@@ -1,4 +1,3 @@
-import java.lang.Integer;
 import javax.swing.JOptionPane;
 
 public class ExempleInt {
